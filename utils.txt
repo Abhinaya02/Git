@@ -1,0 +1,1 @@
+utility finctions for version 1
